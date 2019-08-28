@@ -1,0 +1,41 @@
+.conversion{
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.form{
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: solid 1px #dddddd;
+    border-radius: 10px;
+}
+.media{
+    padding: 10px;
+}
+.footer-logo{
+    padding: 10px;
+}
+.nav-bg{
+    background-color: #186571;
+}
+.pad{
+    padding: 45px 0px;
+}
+.side-img{
+    padding: 10px;
+    border: 4px solid #186571;
+    border-radius: 5px;
+}
+.pg-pad{
+    padding: 15px;
+}
+.footer{
+    background-color: #186571;
+    padding: 15px;
+    color: #eee;
+}
+.text{
+    padding: 20px;
+}
