@@ -39,3 +39,6 @@
 .text{
     padding: 20px;
 }
+.bg-image{
+    background-image: url(..img/)
+}
